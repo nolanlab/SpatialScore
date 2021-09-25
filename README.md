@@ -43,7 +43,7 @@ Output: various data tables (.txt) and numerous intermediate/processing files th
 
 **Test Data**
 
-Here we provide an example data table (SpatialScore_test_data.csv) for testing the application. The resultant output files are also included for reference. 
+Here we provide an example data table (SpatialScore_test_data.csv) for testing the application. The resulting output data tables are included for reference. 
 
 
 **Script creation**
