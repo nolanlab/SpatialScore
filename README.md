@@ -30,7 +30,7 @@ Output: large number of intermediate files (output from Delauney algorithm, plus
   
   - density plots or histograms of minimal distances for each cell type pair – one density/histogram for each group.
 
-  - data table of minimal distances to each cell type per each cell (2 files: in pixels and um, here assuming a 0.3774 conversion factor based on our objective)
+  - data table of minimal distances to each cell type per each cell (2 files: in pixels and um, here assuming a 0.37744 conversion factor based on our objective)
 
   - data table of ave minimal distances and their statistics, per spot
 
