@@ -1,12 +1,12 @@
 # SpatialScore
-Code for calculating the SpatialScore as described in our manuscript: "Immune cell topography predicts response to PD-1 blockade in cutaneous T cell lymphoma"
+Code for calculating the _SpatialScore_ as described in our manuscript: "Immune cell topography predicts response to PD-1 blockade in cutaneous T cell lymphoma"
 
 
 **Introduction**
 
 Using the X/Y coordinates for each cell-type, this R application calculates the spatial distances (i.e., the minimal distance between each cell-type and its nearest other cell-types) as well as ratio distances between 3 cell-types.
 
-In our manuscript, we were specifically interested in the distance relationships between 3 cell-types: effector T cells (CT1), tumor cells (CT2) and Tregs (CT3). We used this R application (spatial_analytics.R) to calculate the ratio of the minimal distances between CT1—CT2 (right distance) versus CT1—CT3 (left distance). This distance ratio represents the SpatialScore.
+In our manuscript, we were specifically interested in the distance relationships between 3 cell-types: effector T cells (CT1), tumor cells (CT2) and Tregs (CT3). We used this R application (spatial_analytics.R) to calculate the ratio of the minimal distances between CT1—CT2 (right distance) versus CT1—CT3 (left distance). This distance ratio represents the _SpatialScore_.
 
 ![SpatialScore](https://user-images.githubusercontent.com/37353112/134821486-15bd8d31-a134-4143-8851-b96a85ff5292.PNG)
 
