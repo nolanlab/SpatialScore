@@ -45,7 +45,7 @@ Output: various data tables (.txt) and numerous intermediate/processing files th
 
 **Test Data**
 
-Here we provide an sample input data table (SpatialScore_test_data.csv) and the resulting output data tables for reference. 
+Here we provide a sample input data table (SpatialScore_test_data.csv) and the resulting output data tables for reference. 
 
 
 **Script creation**
